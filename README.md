@@ -1,1 +1,1 @@
-# pairProjectVoucher
+# G-Shop Pair Project
